@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1Score
+  - Player1Name
+  - Player2Score
+  - Player2Name
+  - Player3Score
+  - Player3Name
+  - Player4Score
+  - Player4Name
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FirstPlayers Layer
+  - SecondPlayers Layer
+  - ThirdPlayers Layer
+  - ForthPlayers Layer
+  - allBut1
+  - allBut2
+  - allBut3
+  - allBut4
+  - FBO Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
